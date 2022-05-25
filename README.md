@@ -1,2 +1,8 @@
-# Class-Work-Practice-11-Data-Container-Using-Javascript
-Javascript-data-container-details & Even and odd practice
+Today i learned javascript..var ..means variable in javascript .
+variable means like a container ...
+3 types of ariables in javascript..
+1...var 
+2...let 
+3...const
+
+
