@@ -22,3 +22,7 @@ Variables play a crucial role in storing and manipulating data within a program.
 ## Next Steps
 
 As I continue my journey with JavaScript, I look forward to exploring more advanced topics, applying these fundamentals in practical scenarios, and building interactive web applications.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
